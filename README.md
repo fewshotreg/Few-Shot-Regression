@@ -1,6 +1,6 @@
-# Few-Shot Regression via Sparsifying Basis Functions
+# Few-Shot Regression via Learning Sparsifying Basis Functions
 
-This repo contains the coode for the paper "Few-Shot Regression via Sparsifying Basis Functions"
+This repo contains the coode for the paper "Few-Shot Regression via Learning Sparsifying Basis Functions"
 
 ## Instrctions to run
 
