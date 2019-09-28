@@ -4,7 +4,7 @@ This repo contains the coode for the paper "Few-Shot Regression via Sparsifying 
 
 ## Instrctions to run
 
-To run the code, simmply run the main.py file with appropiate flags
+To run the code for MNIST image completion task, run the ffn_main_mnist.py file.
 
 ## Data
 
